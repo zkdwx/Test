@@ -5,4 +5,6 @@ public interface eat {
     default public void drink(){
         System.out.println("吃饭就要喝点水？？？？？？？？？");
     }
+	
+	XIXI
 }
