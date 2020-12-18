@@ -7,4 +7,5 @@ public interface eat {
     }
 	
 	XIXI
+	git git
 }
