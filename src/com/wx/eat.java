@@ -6,7 +6,6 @@ public interface eat {
         System.out.println("吃饭就要喝点水？？？？？？？？？");
     }
 	
-	XIXI
-	git git
+	
 	
 }
